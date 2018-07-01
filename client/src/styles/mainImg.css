@@ -1,0 +1,25 @@
+.main-img {
+  display: flex;
+  justify-content: center;
+  margin-top: 2em;
+}
+
+.main-img__container {
+  max-width: 450px;
+}
+
+.main-img__container img {
+  max-width: 100%;
+}
+
+.main-img__title {
+  font-size: 1.5em;
+  text-align: center;
+  margin-top: 0.75em;
+}
+
+.main-img__value {
+  font-size: 2em;
+  text-align: center;
+  margin-top: 0.5em;
+}

@@ -1,0 +1,17 @@
+.container-filters {
+  display: flex;
+}
+.container-filters-img {
+  width: 150px;
+}
+
+.container-filters-img img {
+  max-width: 100%;
+  cursor: pointer;
+}
+
+.container-filters-title {
+  font-size: 0.75em;
+  text-align: center;
+  display: block;
+}
