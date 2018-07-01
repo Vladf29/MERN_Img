@@ -1,0 +1,23 @@
+{
+  "name": "MERN_Img",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vladf29/MERN_Img.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vladf29/MERN_Img/issues"
+  },
+  "homepage": "https://github.com/Vladf29/MERN_Img#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
